@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-color:rgb(137, 142, 144);
+}
+.name{
+    color:gold;
+    font-weight:bold;
+    font-size:3vh;
+    margin:2vh 0 0 3vw;
+    text-align:left;
+    width:40%;
+}
+header nav{
+    text-align: right;
+    border-bottom: 2px solid tomato;
+}
+header nav ul{
+    list-style: none;
+    margin: 0 2vw 2vh 0;
+}
+header nav ul li{
+    display: inline-block;
+    color: gold;
+    font-size:2.5vh;
+}
+
+h1{
+    font-size:20vh;
+    text-align:center;
+    color: goldenrod;
+}
+.herotxt{
+    text-align:center;
+    padding:2vw;
+    font-size:6vh;
+}
+.heropic{
+    width: 55%;
+    margin:0 0 0 20vw;
+}
+main section{
+    margin: 0 auto;
+    width:30%;
+    
+}
+main section ul{
+    margin:20vh 0 0 0;
+    text-align: center;
+list-style: none;
+border:3px solid gold;
+
+}
+main section ul li{
+    padding:0 0 0 3vw;
+    text-align:left;
+    font-size:6vh;
+    background-color: tomato;
+}
+.anker{
+background-color: tomato;
+text-decoration: none;
+font-size:6vh;
+color:gold;
+}
+a:hover{
+    text-decoration:underline gold; 
+}
+.article{
+text-align: center;
+}
+
+.h2{
+text-align: center;
+color: goldenrod;
+font-size: 15vh;
+margin:35vh 0 0 0;
+}
+.ptxt{
+color: black;
+font-size: 8vh;
+padding:10vh 0;
+}
+.backanker{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    font-size:3vh;
+}
+.img{
+
+}
+
+#scroll{
+
+}
